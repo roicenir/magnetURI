@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "thirty-two": "^1.0.1",
-    "uniq": "^1.0.1"
+    "uniq": "^1.0.1",
+    "webtorrent": "^0.107.17"
   },
   "devDependencies": {
     "standard": "*",
